@@ -8,4 +8,4 @@ To experience how media queries work at different  screen (i used different colo
       4) mobile and mini-tablets (445px and less than 768px)
       
     page link:- 
-    code link:- 
+    code link:- https://github.com/praveen-all/MediaQueriesDemo.git
