@@ -7,5 +7,5 @@ To experience how media queries work at different  screen (i used different colo
       3) tablets (1024px to 768px)
       4) mobile and mini-tablets (445px and less than 768px)
       
-    page link:- 
+    page link:- https://praveen-all.github.io/MediaQueriesDemo/
     code link:- https://github.com/praveen-all/MediaQueriesDemo.git
